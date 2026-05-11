@@ -219,7 +219,8 @@ _F()  «F → num | id | ( E )»
 └────┴──────────┴──────────┴──────────┴──────────┘
 ```
 
-**Скриншот:** `screenshots/quadruples.png`.
+<img width="849" height="671" alt="image" src="https://github.com/user-attachments/assets/f60e331b-d97d-4262-8c7e-f080264d04be" />
+
 
 ---
 
@@ -271,8 +272,7 @@ _F()  «F → num | id | ( E )»
 
 **Результат:** `20`.
 
-**Скриншот:** `screenshots/poliz.png` — формирование ПОЛИЗ и пошаговое
-вычисление в правой панели интерфейса.
+<img width="1055" height="338" alt="image" src="https://github.com/user-attachments/assets/c1aa8b18-6421-4516-85ce-3a11e61b541f" />
 
 ---
 
