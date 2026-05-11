@@ -273,6 +273,7 @@ _F()  «F → num | id | ( E )»
 **Результат:** `20`.
 
 <img width="1055" height="338" alt="image" src="https://github.com/user-attachments/assets/c1aa8b18-6421-4516-85ce-3a11e61b541f" />
+<img width="1919" height="1035" alt="image" src="https://github.com/user-attachments/assets/99e10ff5-a6fc-4f72-b4fb-39ca3d4bd1f9" />
 
 ---
 
