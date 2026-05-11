@@ -163,7 +163,7 @@ _F()  «F → num | id | ( E )»
 
 ### 4.3 Тестовые примеры работы лексера и парсера
 
-> Скриншоты GUI вставить здесь после запуска `<img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/d5fa6ad0-33c1-4ef9-9fc2-23c236120ffc" />`.
+> <img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/9fc1fb3c-886f-497e-9181-75ea81b8ccfb" />
 >
 > Рекомендуемые входы для тестирования:
 
