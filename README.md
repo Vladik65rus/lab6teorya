@@ -93,7 +93,7 @@ digit  →  0 | 1 | … | 9
 Лексер реализован в классе `LexicalAnalyzer` (метод `_analyze_line`). Главный
 цикл по очереди разбирает каждый символ строки, переходя в одно из состояний:
 
-<img width="309" height="911" alt="image" src="https://github.com/user-attachments/assets/11d2e5f6-f324-40c1-ba1e-328a3c8dd69e" />
+<img width="603" height="1788" alt="image" src="https://github.com/user-attachments/assets/4e12df72-434e-4838-a17d-d02d16f56418" />
 
 
 Лексер возвращает два списка: `tokens` (распознанные лексемы со строкой и
@@ -114,8 +114,8 @@ digit  →  0 | 1 | … | 9
 
 ### 4.3 Тестовые примеры работы лексера и парсера
 
-> <img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/9fc1fb3c-886f-497e-9181-75ea81b8ccfb" />
->
+<img width="417" height="2289" alt="image" src="https://github.com/user-attachments/assets/2cc64a8f-e29d-4c54-a078-4e250da02f05" />
+
 > Рекомендуемые входы для тестирования:
 
 | Тест | Входная строка | Ожидаемый результат |
