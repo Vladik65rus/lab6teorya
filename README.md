@@ -88,7 +88,7 @@ digit  →  0 | 1 | … | 9
 
 ## 4. Схемы лексера и рекурсивного спуска
 
-### 4.1 Схемы лексера
+### 4.1 Схема лексера
 
 
 <img width="603" height="1788" alt="image" src="https://github.com/user-attachments/assets/4e12df72-434e-4838-a17d-d02d16f56418" />
