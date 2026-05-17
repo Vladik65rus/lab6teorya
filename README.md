@@ -105,7 +105,7 @@ digit  →  0 | 1 | … | 9
 Парсер реализован в классе `ExpressionParser`. Каждому нетерминалу грамматики
 соответствует метод:
 
-<img width="603" height="1788" alt="image" src="https://github.com/user-attachments/assets/58c45b29-34ce-4cea-b9da-f6af6ce610f1" />
+<img width="417" height="2289" alt="image" src="https://github.com/user-attachments/assets/03e00091-41a6-40f0-b5af-012fadb6c4b8" />
 
 
 Парсер ведёт список ошибок `errors`. После завершения `_E()`, если во входном
@@ -114,7 +114,6 @@ digit  →  0 | 1 | … | 9
 
 ### 4.3 Тестовые примеры работы лексера и парсера
 
-<img width="417" height="2289" alt="image" src="https://github.com/user-attachments/assets/03e00091-41a6-40f0-b5af-012fadb6c4b8" />
 
 > Рекомендуемые входы для тестирования:
 
